@@ -2,8 +2,8 @@
 //  AppleSystemService.m
 //  AppleSystemService
 //
-//  Created by YouXianMing on 16/7/2.
-//  Copyright © 2016年 YouXianMing. All rights reserved.
+//  Created by xinsheng wu on 2018/2/12.
+//  Copyright © 2018年 xinsheng wu. All rights reserved.
 //
 
 #import "AppleSystemService.h"

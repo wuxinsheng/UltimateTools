@@ -1,14 +1,12 @@
 PODS:
-  - YYKit (1.0.9):
-    - YYKit/no-arc (= 1.0.9)
-  - YYKit/no-arc (1.0.9)
+  - MJRefresh (3.1.15.7)
 
 DEPENDENCIES:
-  - YYKit
+  - MJRefresh
 
 SPEC CHECKSUMS:
-  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
 
-PODFILE CHECKSUM: f7b2eddad59112fcbee87c704a8a87df6afdf39c
+PODFILE CHECKSUM: 1924fe1c55a747a1b783ba3dab2b34ed59573495
 
 COCOAPODS: 1.3.1

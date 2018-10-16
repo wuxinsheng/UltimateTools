@@ -7,6 +7,7 @@
 //
 
 #import "UIViewController+WuAdd.h"
+#import "WuLogger.h"
 
 @implementation UIViewController (WuAdd)
 

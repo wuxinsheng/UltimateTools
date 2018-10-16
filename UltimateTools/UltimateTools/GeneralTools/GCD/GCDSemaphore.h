@@ -2,11 +2,8 @@
 //  GCDSemaphore.h
 //  GCD
 //
-//  http://home.cnblogs.com/u/YouXianMing/
-//  https://github.com/YouXianMing
-//
-//  Created by XianMingYou on 15/3/15.
-//  Copyright (c) 2015年 XianMingYou. All rights reserved.
+//  Created by xinsheng wu on 2018/2/12.
+//  Copyright © 2018年 xinsheng wu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

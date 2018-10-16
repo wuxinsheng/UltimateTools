@@ -7,15 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6D7F350158BE93E4FC9EA209 /* libPods-UltimateTools.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE20070E0A42C3056452234E /* libPods-UltimateTools.a */; };
 		8F0967E220317C22003426D2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0967E120317C22003426D2 /* AppDelegate.m */; };
 		8F0967E520317C22003426D2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0967E420317C22003426D2 /* ViewController.m */; };
 		8F0967E820317C22003426D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F0967E620317C22003426D2 /* Main.storyboard */; };
 		8F0967EA20317C22003426D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F0967E920317C22003426D2 /* Assets.xcassets */; };
 		8F0967ED20317C22003426D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F0967EB20317C22003426D2 /* LaunchScreen.storyboard */; };
 		8F0967F020317C22003426D2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0967EF20317C22003426D2 /* main.m */; };
-		8F0967FA20317C22003426D2 /* UltimateToolsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0967F920317C22003426D2 /* UltimateToolsTests.m */; };
-		8F09680520317C22003426D2 /* UltimateToolsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F09680420317C22003426D2 /* UltimateToolsUITests.m */; };
 		8F09681D203180A4003426D2 /* UIView+WuAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F09681C203180A4003426D2 /* UIView+WuAdd.m */; };
 		8F096820203180C5003426D2 /* UIImage+WuAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F09681F203180C5003426D2 /* UIImage+WuAdd.m */; };
 		8F096823203180EB003426D2 /* UIViewController+WuAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F096822203180EB003426D2 /* UIViewController+WuAdd.m */; };
@@ -38,6 +35,7 @@
 		8F09686B2032CC59003426D2 /* GCDGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0968622032CC57003426D2 /* GCDGroup.m */; };
 		8F09686C2032CC59003426D2 /* GCDSemaphore.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0968632032CC58003426D2 /* GCDSemaphore.m */; };
 		8F09686D2032CC59003426D2 /* GCDQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F0968652032CC59003426D2 /* GCDQueue.m */; };
+		ED08625473B354DC034DF411 /* Pods_UltimateTools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DDFC5F415DCB6E3D4F20F28 /* Pods_UltimateTools.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +57,7 @@
 
 /* Begin PBXFileReference section */
 		42159EC12295597C91E0D503 /* Pods-UltimateTools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UltimateTools.release.xcconfig"; path = "Pods/Target Support Files/Pods-UltimateTools/Pods-UltimateTools.release.xcconfig"; sourceTree = "<group>"; };
+		6DDFC5F415DCB6E3D4F20F28 /* Pods_UltimateTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UltimateTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F0967DD20317C22003426D2 /* UltimateTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UltimateTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F0967E020317C22003426D2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8F0967E120317C22003426D2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -70,11 +69,7 @@
 		8F0967EE20317C22003426D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F0967EF20317C22003426D2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8F0967F520317C22003426D2 /* UltimateToolsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UltimateToolsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8F0967F920317C22003426D2 /* UltimateToolsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UltimateToolsTests.m; sourceTree = "<group>"; };
-		8F0967FB20317C22003426D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F09680020317C22003426D2 /* UltimateToolsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UltimateToolsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8F09680420317C22003426D2 /* UltimateToolsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UltimateToolsUITests.m; sourceTree = "<group>"; };
-		8F09680620317C22003426D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F09681B203180A4003426D2 /* UIView+WuAdd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+WuAdd.h"; sourceTree = "<group>"; };
 		8F09681C203180A4003426D2 /* UIView+WuAdd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+WuAdd.m"; sourceTree = "<group>"; };
 		8F09681E203180C5003426D2 /* UIImage+WuAdd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+WuAdd.h"; sourceTree = "<group>"; };
@@ -124,7 +119,6 @@
 		8F0968682032CC59003426D2 /* GCDQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCDQueue.h; sourceTree = "<group>"; };
 		8F0968692032CC59003426D2 /* GCD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCD.h; sourceTree = "<group>"; };
 		9A43FCEF1C99B2C71EF7D343 /* Pods-UltimateTools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UltimateTools.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UltimateTools/Pods-UltimateTools.debug.xcconfig"; sourceTree = "<group>"; };
-		CE20070E0A42C3056452234E /* libPods-UltimateTools.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-UltimateTools.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,7 +126,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6D7F350158BE93E4FC9EA209 /* libPods-UltimateTools.a in Frameworks */,
+				ED08625473B354DC034DF411 /* Pods_UltimateTools.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,8 +151,6 @@
 			isa = PBXGroup;
 			children = (
 				8F0967DF20317C22003426D2 /* UltimateTools */,
-				8F0967F820317C22003426D2 /* UltimateToolsTests */,
-				8F09680320317C22003426D2 /* UltimateToolsUITests */,
 				8F0967DE20317C22003426D2 /* Products */,
 				B0D995CDA0677BEC9F193E90 /* Pods */,
 				FF11DE6396BFED234C3685BF /* Frameworks */,
@@ -196,24 +188,6 @@
 				8F0967EF20317C22003426D2 /* main.m */,
 			);
 			path = UltimateTools;
-			sourceTree = "<group>";
-		};
-		8F0967F820317C22003426D2 /* UltimateToolsTests */ = {
-			isa = PBXGroup;
-			children = (
-				8F0967F920317C22003426D2 /* UltimateToolsTests.m */,
-				8F0967FB20317C22003426D2 /* Info.plist */,
-			);
-			path = UltimateToolsTests;
-			sourceTree = "<group>";
-		};
-		8F09680320317C22003426D2 /* UltimateToolsUITests */ = {
-			isa = PBXGroup;
-			children = (
-				8F09680420317C22003426D2 /* UltimateToolsUITests.m */,
-				8F09680620317C22003426D2 /* Info.plist */,
-			);
-			path = UltimateToolsUITests;
 			sourceTree = "<group>";
 		};
 		8F09681220317F2C003426D2 /* Model */ = {
@@ -397,7 +371,7 @@
 		FF11DE6396BFED234C3685BF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				CE20070E0A42C3056452234E /* libPods-UltimateTools.a */,
+				6DDFC5F415DCB6E3D4F20F28 /* Pods_UltimateTools.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -540,9 +514,12 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-UltimateTools/Pods-UltimateTools-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MJRefresh.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -621,7 +598,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F0967FA20317C22003426D2 /* UltimateToolsTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -629,7 +605,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F09680520317C22003426D2 /* UltimateToolsUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -778,6 +753,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_ROOT}/YYKit/Vendor\"",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/UltimateTools/PrefixHeader.pch";
@@ -795,6 +775,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_ROOT}/YYKit/Vendor\"",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/UltimateTools/PrefixHeader.pch";

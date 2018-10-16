@@ -2,8 +2,8 @@
 //  File.h
 //  FileManager
 //
-//  Created by YouXianMing on 15/11/19.
-//  Copyright © 2015年 YouXianMing. All rights reserved.
+//  Created by xinsheng wu on 2018/2/12.
+//  Copyright © 2018年 xinsheng wu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

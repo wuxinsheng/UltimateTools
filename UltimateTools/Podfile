@@ -1,6 +1,8 @@
 
+use_frameworks!
+
 target 'UltimateTools' do
 
-    pod ‘YYKit’
+    pod 'MJRefresh'
     
 end
